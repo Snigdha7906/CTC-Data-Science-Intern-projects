@@ -1,6 +1,6 @@
 # CTC-Data-Science-Intern-projects
 
-These are the internship projects I completed with Customized Traing & Cunsultancy (CTC) from 10th December 2019 to 15th January 2020.
+These are the internship projects I completed with Customized Training & Consultancy (CTC) from 10th December 2019 to 15th January 2020.
 
 Project 1 (Regression)
 >> Developed a predictive model to predict the potential car purchase amount using different regression techniques (Linear, Decision Tree, Random Forest, etc.)
